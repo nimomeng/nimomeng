@@ -1,4 +1,4 @@
-### Hi 被你发现啦 👋
+### Hi 你好呀 👋
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nimomeng&show_icons=truehide_title=false" />
